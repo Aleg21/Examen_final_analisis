@@ -1,0 +1,47 @@
+commit fada7ae92a33238abd4fb42687e8fb4f18381f57
+Author: Emerzon Garcia <egarciat16@miumg.edu.gt>
+Date:   Mon Nov 11 10:47:07 2024 -0600
+
+    limpieza
+
+commit 4a61e487f7fb23c939aabce2c8c98726280ec184
+Merge: 6aa8f7b 910d2ba
+Author: Aleg21 <145724419+Aleg21@users.noreply.github.com>
+Date:   Mon Nov 11 10:46:04 2024 -0600
+
+    Merge pull request #2 from Aleg21/Ramacontenedor0901219182
+    
+    contenedor agregado
+
+commit 910d2babb7a4e01aa47e90ff4cb877def3417b4b
+Author: Emerzon Garcia <egarciat16@miumg.edu.gt>
+Date:   Mon Nov 11 10:43:47 2024 -0600
+
+    contenedor agregado
+
+commit 6aa8f7b6829d39c0f0aba85f19d8dd79f9f6e85f
+Merge: c07b545 7c704d9
+Author: Aleg21 <145724419+Aleg21@users.noreply.github.com>
+Date:   Mon Nov 11 10:40:44 2024 -0600
+
+    Merge pull request #1 from Aleg21/Ramacontenedor0901219182
+    
+    contenedor
+
+commit 7c704d92859a461aebf50c426c928f62dd65ce9b
+Author: Emerzon Garcia <egarciat16@miumg.edu.gt>
+Date:   Mon Nov 11 10:38:41 2024 -0600
+
+    contenedor
+
+commit c07b54587d22be47180897fab9f51b5ed8b51a93
+Author: Aleg21 <145724419+Aleg21@users.noreply.github.com>
+Date:   Mon Nov 11 09:42:00 2024 -0600
+
+    Update README.md
+
+commit 4e0e4bba801622669c1564fa87fa661e69b28f7e
+Author: Aleg21 <145724419+Aleg21@users.noreply.github.com>
+Date:   Mon Nov 11 08:31:29 2024 -0600
+
+    Initial commit
